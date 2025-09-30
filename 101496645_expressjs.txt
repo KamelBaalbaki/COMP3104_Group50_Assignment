@@ -17,3 +17,20 @@ It works with a client-server model, handling HTTP requests and responses throug
 
     Response sent: After the middleware stack is finished, the application sends a response back to the client. This can be 
     JSON data, a rendered HTML page, or a redirect. 
+
+Key features:
+
+Routing: Express has a robust routing system that defines how an application responds to client requests to specific 
+endpoints and HTTP methods.
+
+Middleware: The framework's core relies on middleware functions, which are executed in a pipeline during the request-response 
+cycle to perform tasks.
+
+Performance: Built on the fast Node.js runtime, Express provides a lightweight layer of features that make it easy to build 
+high-performance applications.
+
+Flexibility: Unlike more "opinionated" frameworks, Express does not enforce a strict application structure. Developers have the 
+freedom to organize their code and use the tools they prefer.
+
+RESTful API support: Express is especially well-suited for building RESTful APIs, allowing developers to handle different HTTP 
+verbs (GET, POST, PUT, DELETE) with a clean syntax.
