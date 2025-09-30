@@ -4,3 +4,5 @@ Students also learn about CI/CD pipelines using GitHub Actions or other tools, e
 The course aims to build practical skills that align with industry standards for managing and deploying applications efficiently.
 
 Tools introduced include Git, GitHub, GitHub Actions, and Travis CI.
+
+CI/CD stands for Continuous Integration and Continuous Deployment.
