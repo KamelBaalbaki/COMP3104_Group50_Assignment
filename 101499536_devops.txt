@@ -1,1 +1,2 @@
 Automation is central in DevOps: repeatable tasks, infrastructure as code.
+DevOps aims to shorten development cycles and improve deployment frequency.
