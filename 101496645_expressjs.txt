@@ -1,0 +1,6 @@
+What is express JS?
+
+Express.js, often referred to simply as Express, is a minimal and flexible back-end web application framework for Node.js. 
+It is designed for building web applications and APIs, and is widely considered the de facto standard server framework for 
+Node.js.
+
