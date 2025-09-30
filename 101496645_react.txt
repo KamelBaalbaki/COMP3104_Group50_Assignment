@@ -1,0 +1,4 @@
+What is React?
+
+React is an open-source JavaScript library primarily used for building dynamic and interactive user interfaces (UIs) 
+for web applications. It was created by Facebook and is widely adopted in front-end development.
