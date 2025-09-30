@@ -4,3 +4,16 @@ Express.js, often referred to simply as Express, is a minimal and flexible back-
 It is designed for building web applications and APIs, and is widely considered the de facto standard server framework for 
 Node.js.
 
+How Express.js works:
+Express.js simplifies the core functionality of Node.js to manage the flow of data between a server and client. 
+It works with a client-server model, handling HTTP requests and responses through the following process: 
+
+    Request received: A web browser or mobile app sends an HTTP request (e.g., GET or POST) to the server.
+
+    Route matching: The Express app receives the request and, based on the URL and HTTP method, directs it to the correct handler.
+
+    Middleware execution: The request may pass through one or more middleware functions. These functions can handle tasks such 
+    as authentication, logging, or parsing the request data.
+
+    Response sent: After the middleware stack is finished, the application sends a response back to the client. This can be 
+    JSON data, a rendered HTML page, or a redirect. 
