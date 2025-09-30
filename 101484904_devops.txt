@@ -1,0 +1,6 @@
+COMP3104 DevOps covers essential practices in modern software development. 
+Students learn GitHub workflows, branching strategies, and continuous integration tools like GitHub Actions. 
+The course focuses on teamwork, automation, and collaboration in real-world environments.
+The course also teaches students about CI/CD pipelines and automated testing.
+Students gain practical skills in Git branching, merging, and conflict resolution.
+This concludes my contributions for COMP3104 DevOps Group Assignment.
