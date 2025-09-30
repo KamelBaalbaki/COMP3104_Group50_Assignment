@@ -1,7 +1,7 @@
 # COMP3104_Group50_Assignment
 
 ## Group Members
-- **Leader:** Kamel Baalbaki (101496645) - [GitHub](https://github.com/KamelBaalbak)
+- **Leader:** Kamel Baalbaki (101496645) - [GitHub](https://github.com/KamelBaalbaki)
 
 ## Project Description 
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
