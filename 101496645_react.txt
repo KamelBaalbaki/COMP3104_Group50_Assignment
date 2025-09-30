@@ -24,3 +24,16 @@ Focus on UI: React is a library specifically focused on the UI layer, not a full
 flexibility in choosing other libraries and tools for aspects like routing, state management, and backend integration.
 
 Cross-Platform Capabilities: While primarily used for web development, React Native, a derivative of React, allows developers to build native mobile applications for iOS and Android using the same React principles and JavaScript codebase.
+
+How React works:
+
+Rendering a component: You define a component, which is a JavaScript function that returns JSX markup describing what the UI 
+should look like.
+
+Updating the Virtual DOM: When a component's state or props change, React builds a new virtual DOM to represent the updated UI.
+
+Reconciliation: React compares the new virtual DOM with the previous one, a process called "diffing," to identify exactly what 
+has changed.
+
+Efficient update: React then applies only the necessary changes to the actual browser DOM, updating the UI quickly and without 
+a full page reload. 
