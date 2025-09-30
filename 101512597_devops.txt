@@ -2,3 +2,5 @@ COMP 3104 – DevOps is a course that introduces students to modern software dev
 The course covers Git, GitHub workflows, branching strategies, and version control in group projects. 
 Students also learn about CI/CD pipelines using GitHub Actions or other tools, enabling automated testing and deployment. 
 The course aims to build practical skills that align with industry standards for managing and deploying applications efficiently.
+
+Tools introduced include Git, GitHub, GitHub Actions, and Travis CI.
