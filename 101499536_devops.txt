@@ -1,0 +1,1 @@
+Automation is central in DevOps: repeatable tasks, infrastructure as code.
