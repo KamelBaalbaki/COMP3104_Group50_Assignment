@@ -22,3 +22,11 @@ the code.
 Pull Requests: This is a feature where a developer proposes changes they've made to a repository for others to review and merge into the main codebase. 
 
 Open Source: GitHub is a popular hub for open-source projects, allowing anyone to view, use, and contribute to public repositories for free. 
+
+
+How it Works
+
+Local Git: You first use Git on your local computer to manage changes in your project. 
+Push to GitHub: You then "push" your local repository to GitHub, creating an online, cloud-based version of your project. 
+Collaboration: Other team members can "clone" your repository, work on their own branches, and then "pull" their changes back 
+to the shared repository for review and merging. 
