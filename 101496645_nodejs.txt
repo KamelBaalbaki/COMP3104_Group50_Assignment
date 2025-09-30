@@ -5,3 +5,17 @@ outside of a web browser. Traditionally, JavaScript was limited to client-side w
 
 Node.js, built on Google Chrome's V8 JavaScript engine, extends JavaScript's capabilities to server-side and general-purpose 
 programming.
+
+Key aspects of Node.js:
+
+Runtime Environment: It provides the necessary components to run JavaScript programs independently, similar to how other 
+programming languages like Python or Ruby can be executed.
+
+Server-Side Development: Node.js enables the creation of backend web servers and APIs using JavaScript, allowing for a unified 
+language for both frontend and backend development.
+
+Asynchronous and Event-Driven: Node.js is designed for building scalable network applications by handling many simultaneous 
+connections efficiently through its non-blocking, event-driven architecture.
+
+npm (Node Package Manager): It comes with npm, a vast ecosystem of open-source libraries and tools that simplify project management and dependency handling.
+Cross-Platform: Node.js runs on various operating systems, including Windows, macOS, Linux, and more.
