@@ -4,3 +4,5 @@ By integrating continuous integration and continuous deployment, DevOps reduces 
 This approach leads to more reliable software and a smoother process from planning to deployment, making it a critical part of modern SDLC practices.
 
 DevOps fosters better collaboration between developers, testers, and operations teams.
+
+Automation is central to DevOps, ensuring consistency, speed, and reliability.
