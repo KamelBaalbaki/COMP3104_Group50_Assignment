@@ -1,0 +1,6 @@
+What is GitHub?
+
+GitHub is a cloud-based platform built on the Git version control system that serves as a web-based hosting service for software repositories,
+enabling developers to store, manage, and share their code, collaborate on projects, track changes, and contribute to open-source communities.
+It provides a user-friendly interface for developers to work together, manage tasks, and integrate continuous processes like automated builds and
+deployments into their workflows. 
