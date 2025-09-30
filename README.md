@@ -2,6 +2,7 @@
 
 ## Group Members
 - **Leader:** Kamel Baalbaki (101496645) - [GitHub](https://github.com/KamelBaalbaki)
+- **Member:** Libareo Barbour (101499536) - [GitHub](https://github.com/Libareo13)
 
 ## Project Description 
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
